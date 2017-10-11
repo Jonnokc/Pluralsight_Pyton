@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Exercism.io/.idea/Exercism.io.iml" filepath="$PROJECT_DIR$/../Exercism.io/.idea/Exercism.io.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Pluralsight_Pyton.iml" filepath="$PROJECT_DIR$/.idea/Pluralsight_Pyton.iml" />
     </modules>
   </component>
